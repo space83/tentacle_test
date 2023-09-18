@@ -7,7 +7,9 @@ How to use
 5. You can test the api at webpage using swagger
 
 Technology use:
-aspnetcore v6.0.22
-entity framework v7.0.11
+1. aspnetcore v6.0.22
+2. entity framework v7.0.11
+
+Notes: This is backend only without frontend.
 
 
